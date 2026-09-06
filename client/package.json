@@ -89,7 +89,7 @@
     "@types/testing-library__cypress": "^5.0.1",
     "@types/testing-library__react": "^9.1.2",
     "axios-mock-adapter": "^1.17.0",
-    "cypress": "^3.8.2",
+    "cypress": "^16.0.0",
     "mutation-observer": "^1.0.3",
     "react-test-renderer": "^16.13.0",
     "source-map-explorer": "^2.3.1",
