@@ -41,7 +41,7 @@
     "express-static-gzip": "^2.0.6",
     "gridfs-stream": "^1.1.1",
     "helmet": "^3.21.2",
-    "image-size": "^0.8.3",
+    "image-size": "^2.0.3",
     "jsonwebtoken": "^9.0.0",
     "memory-cache": "^0.2.0",
     "mongoose": "^5.8.0",
